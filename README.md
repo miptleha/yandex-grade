@@ -37,11 +37,14 @@
 
 Время прокачать свой иностранный язык. `Грейд` любезно предоставляет обучающие уроки по английскому.
 
-* Connecting with the team (Построение отношений с новыми коллегами), *2 часа* :man:
+* Connecting with the team (Построение отношений с новыми коллегами), *2 часа* :man: 49% (29.10.24)
 * Giving a presentation (Построение структуры публичного выступления), *2 часа* :man:
 * Participating in a discussion (Обсуждение идей и решений в команде), *2 часа* :man:
 * Performance review (Презентация своих достижений и планов развития), *37 минут* :man:
 * Sync-up meetings (Обсуждение завершённых, текущих и запланированных задач), *2 часа* :man:
+
+Тяжеловато для меня, что-то вроде теста для иностранных граждан для получения визы.  
+Также можно прощелкать ответы каждого теста минут за 15, особо не задумываясь.
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiptleha%2Fyandex-grade&count_bg=%230C7DBD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
