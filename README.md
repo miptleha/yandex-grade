@@ -44,7 +44,7 @@
 * Sync-up meetings (Обсуждение завершённых, текущих и запланированных задач), *2 часа* :man:
 
 Тяжеловато для меня, что-то вроде теста для иностранных граждан для получения визы.  
-Также можно прощелкать ответы каждого теста минут за 15, особо не задумываясь.
+Можно прощелкать ответы каждого теста минут за 15. Какой-то теории не увидел.
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiptleha%2Fyandex-grade&count_bg=%230C7DBD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
