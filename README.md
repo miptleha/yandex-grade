@@ -41,10 +41,14 @@
 * Giving a presentation (Построение структуры публичного выступления), *2 часа* :man: 57% (29.10.24)
 * Participating in a discussion (Обсуждение идей и решений в команде), *2 часа* :man: 57% (29.10.24)
 * Performance review (Презентация своих достижений и планов развития), *37 минут* :man: 25% (30.10.24)
-* Sync-up meetings (Обсуждение завершённых, текущих и запланированных задач), *2 часа* :man:
+* Sync-up meetings (Обсуждение завершённых, текущих и запланированных задач), *2 часа* :man: 29% (30.10.24)
 
 Тяжеловато для меня, многие выражения на английском не знакомы.  
 В каждом уроке имеется небольшая глава с теорией и итоговый тест. Каждый урок минут на 20.
+
+## Алгоритмы
+
+Перед тем, как приступить к самой интересной теме, прокачаем свою `computer science`.
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiptleha%2Fyandex-grade&count_bg=%230C7DBD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
