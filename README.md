@@ -73,5 +73,9 @@
 * Работа с деревьями *11 часов* :man:
   - [ ] Работа с деревьями
 
+На примере простых алгоритмов показано, как можно их оптимизировать.  
+Тесты нельзя пересдать, финальный бал уже не изменить.  
+Уроки теоритические, но можно и на своем любимом языке отработать алгоритмы в `Яндекс Контесте`.
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiptleha%2Fyandex-grade&count_bg=%230C7DBD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
