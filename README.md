@@ -75,7 +75,7 @@
 
 На примере простых алгоритмов показано, как можно их оптимизировать.  
 Уроки теоритические, но можно и на своем любимом языке отработать алгоритмы в `Яндекс Контесте`.  
-Столкнулся с тем, что тесты по курсу нельзя пересдать.
+Столкнулся с тем, что тесты по курсу нельзя пересдать. Во время финального теста нельзя отвлекаться.
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiptleha%2Fyandex-grade&count_bg=%230C7DBD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
