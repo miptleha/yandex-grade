@@ -50,12 +50,12 @@
 
 Перед тем, как приступить к самой интересной теме, прокачаем свою `computer science`.
 
-* Знакомство с алгоритмами, *5 часов* :boy: 34% (30.10.24) [Contest](https://contest.yandex.ru/contest/59191/problems/)
+* Знакомство с алгоритмами, *5 часов* :boy: 34% (30.10.24) [Контест](https://contest.yandex.ru/contest/59191/problems/)
   - [x] Решение базовых алгоритмических задач
-* Введение в алгоритмы, *9 часов* :boy: 79% (01.11.24) [Contest](https://contest.yandex.ru/contest/59194/problems/)
+* Введение в алгоритмы, *9 часов* :boy: 79% (01.11.24) [Контест](https://contest.yandex.ru/contest/59194/problems/)
   - [x] Решение базовых алгоритмических задач
   - [x] Оценка сложности алгоритмов и сравнение их по эффективности
-* Основные структуры данных, *8 часов* :boy: 89% (03.11.24) [Contest](https://contest.yandex.ru/contest/59182/problems/)
+* Основные структуры данных, *8 часов* :boy: 89% (03.11.24) [Контест](https://contest.yandex.ru/contest/59182/problems/)
   - [x] Работа со списками
   - [x] Работа с массивами
   - [x] Работа с очередью
@@ -76,6 +76,7 @@
 На примере простых алгоритмов показано, как можно их оптимизировать.  
 Уроки теоритические, но встречаются ссылки на `Яндекс Контест`, где можно порешать задачки на любимом языке программирования.  
 Столкнулся с тем, что тесты по курсу нельзя пересдать. Во время финального теста нельзя отвлекаться.
+[Исходные коды](https://github.com/Yandex-Practicum/algorithms-theory-examples) для грейдов про алгоритмы.  
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiptleha%2Fyandex-grade&count_bg=%230C7DBD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
