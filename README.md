@@ -222,7 +222,8 @@
   - [x] Работа со строками и форматированием
   - [x] Работа с библиотеками
   - [x] Сетевые запросы
-  - [ ] Написание простых программ на Python
+  - [x] Написание простых программ на Python
+* Рефакторинг кода по принципам ООП, *4 часа* :man:
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiptleha%2Fyandex-grade&count_bg=%230C7DBD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
