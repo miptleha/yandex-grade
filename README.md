@@ -225,6 +225,7 @@
   - [x] Написание простых программ на Python
 * Рефакторинг кода по принципам ООП, *4 часа* :man: 100% (31.12.2024)
 * Ускорение выполнения программ за счёт распараллеливания, *10 часов* :man: 94% (01.01.2025)
+* Основы асинхронного подхода в Python, *15 часов* :man:
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiptleha%2Fyandex-grade&count_bg=%230C7DBD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
