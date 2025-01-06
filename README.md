@@ -235,5 +235,12 @@
 
 Самое интересное оставил на конец. Жалко, что пара дней осталось и закроют доступ. Ну, что успею, почитаю.
 
+* TypeScript для Web-разработчика, *10 часов*, :man:
+  - [ ] Использование interface и type для определения структур данных
+  - [ ] Использование кастомных и встроенных дженериков
+  - [ ] Работа с условными типами
+  - [ ] Типизация Redux
+  - [ ] Типизация React
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiptleha%2Fyandex-grade&count_bg=%230C7DBD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
