@@ -241,6 +241,11 @@
   - [x] Работа с условными типами
   - [x] Типизация Redux
   - [x] Типизация React
+* Продвинутый JS. Создание интернет-магазина, *19 часов* :man: 94% (10.01.2025)
+  - [x] Асинхронное программирование
+  - [x] Promise API
+  - [x] Работа с API
+  - [x] Разработка интернет-магазина
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiptleha%2Fyandex-grade&count_bg=%230C7DBD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
