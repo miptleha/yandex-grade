@@ -247,6 +247,7 @@
   - [x] Работа с API
   - [x] Разработка интернет-магазина
 * ООП для Web-разработчика, *11 часов* :man: 73% (11.01.2025)
+* Бэкенд на Node.js и Express, *10 часов* :man:
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiptleha%2Fyandex-grade&count_bg=%230C7DBD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
